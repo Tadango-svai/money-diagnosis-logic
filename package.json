@@ -1,0 +1,8 @@
+{
+  "name": "money-diagnosis-logic",
+  "version": "1.0.0",
+  "description": "Simple financial diagnosis logic",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT"
+}
